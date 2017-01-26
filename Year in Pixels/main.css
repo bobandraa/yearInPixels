@@ -1,0 +1,81 @@
+
+#container {
+	text-align: center;
+	width: 100%
+
+}
+/*[class*='col-'] {
+  float: left;
+}
+
+.col-2-3 {
+  width: 66.66%;
+}
+.col-1-8 {
+  width: 12.5%;
+}*/
+
+#keys {
+	display: inline-block;
+	margin-left: 150px;
+	vertical-align: top;
+    margin-top: 25px;
+
+}
+
+#daysOfTheMonth {
+	display: inline-block;
+}
+
+#furious, .furious {
+	background-color: red;
+}
+#frannoyed, .frannoyed {
+	background-color: #e2943b;
+}
+#content, .content {
+	background-color: #56911f;
+}
+#cheerful, .cheerful {
+	background-color: #17a89c;
+}
+#sad, .sad {
+	background-color: #1a4b7c;
+}
+#depressed, .depressed {
+	background-color: #111e56;
+}
+#sick, .sick {
+
+	
+}
+
+
+.month {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.key {
+	border-width: .5px;
+	border-style: solid;	
+	border-color: black;
+    height: 25px;
+	width: 25px;
+	margin-bottom: 10px;
+
+}
+
+.day {
+	border-width: .5px;
+	border-style: solid;	
+	border-color: black;
+    height: 25px;
+	width: 25px;
+}
+
+.keyDescription{
+	width: 10%;
+	float: right;
+
+}
