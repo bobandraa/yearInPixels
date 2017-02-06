@@ -1,2 +1,2 @@
 # yearInPixels
-<img src="http://imgur.com/j49Zfek">
+<img src="http://i.imgur.com/j49Zfek.jpg">
